@@ -2,6 +2,7 @@
 * {
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
 }
 
 /* apply styles to the <header> */
@@ -48,4 +49,26 @@ body {
     /* more on this crazy alphanumerical value in a minute! */
     color: #39a6b2;
     font-family: Helvetica, Arial, sans-serif;
+}
+
+/* apply styles to the <footer> */
+footer {
+    background: #fce138;
+    width: 100%;
+    padding: 40px 35px;
+}
+
+/* apply styles to the <h2> element in the <footer> */
+footer h2 {
+    display: inline;
+    color: #024e76;
+    font-size: 30px;
+    margin: 0;
+}
+
+/* apply styles to the <div> element in the <footer>*/
+footer div {
+    float: right;
+    line-height: 1.5;
+    text-align: right;
 }
