@@ -13,3 +13,4 @@ https://Agent-Shields.github.io/run-buddy/
 ## Contribution
 Made with ❤️ by Johnathan Shields 
 
+### ©️2019 Run Buddy, Inc 
